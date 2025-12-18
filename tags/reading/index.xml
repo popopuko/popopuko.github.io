@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Reading on Po's Haunted Attic</title><link>https://popopuko.github.io/tags/reading/</link><description>Recent content in Reading on Po's Haunted Attic</description><generator>Hugo -- 0.152.2</generator><language>zh-cn</language><lastBuildDate>Wed, 17 Dec 2025 18:34:01 -0500</lastBuildDate><atom:link href="https://popopuko.github.io/tags/reading/index.xml" rel="self" type="application/rss+xml"/><item><title>鸟的阴谋和人的阴谋: Cuckoo: Cheating by Nature 读后随记</title><link>https://popopuko.github.io/posts/cuckoo/</link><pubDate>Wed, 17 Dec 2025 18:34:01 -0500</pubDate><guid>https://popopuko.github.io/posts/cuckoo/</guid><description>&lt;p&gt;今年开始观鸟之后读了一些关于鸟类的书，有趣的也有一些，读到第一本相当喜欢的是Nicholas Davies的Cuckoo: Cheating by Nature。Davies是一名生物行为学家，对大杜鹃的行为进行了多年的观察研究。这本书读起来非常上瘾，一边讲理论，一边讲行为观察实验，环环相扣，尤其着重描写了历史上的科学家，即作者的“英雄”们，对行踪隐秘的杜鹃行为的研究过程。&lt;/p&gt;
+&lt;p&gt;从亚里士多德开始人们就知道雌杜鹃只生不养，让其他鸟类把小杜鹃当成自己的幼崽喂大，但不知道杜鹃的骗局具体是如何实现的。在没有双筒望远镜、观鸟尚难的时代，对鸟类的了解很大部分来自oology，一门以收集鸟巢和鸟蛋为中心的学科。当时人们通过采集（普通）杜鹃蛋已了解到，不同寄主巢里发现的杜鹃蛋形态各异，但多数都和寄主的蛋有相似的颜色、尺寸和斑点，由于同一只鸟不太可能决定自己某颗蛋的颜色，人们倾向认为杜鹃存在不同的亚种，有各自专攻（？）的寄主，只会把蛋下在有类似形态的寄主窝里。一战前在杜鹃蛋领域非常知名的德国科学家Eugene Rey，曾在一个繁殖季节里收集了17枚产自同一只雌杜鹃的蛋，创造了当时的世界纪录。关于杜鹃是怎么把蛋弄到寄主巢里也有两个流派，Rey是一位“beaker”，即认为杜鹃会把蛋生在地上，再把蛋叼进寄主巢穴；另一种“regurgitators”则认为杜鹃是把蛋含在食管里，再把蛋反刍吐进巢穴。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img loading="lazy" src="2eggs.png"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;非洲杜鹃与其寄主叉尾卷尾的蛋外观对比，https://doi.org/10.1098/rspb.2023.1125&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;一战期间，一个叫Edgar Chance的英国鸟蛋学家对杜鹃产生了强烈兴趣，他的两大动力：1.打破Rey收集杜鹃蛋的记录，2.Chance既不是beaker也不是regurgitators，他觉得杜鹃就是屁股对着寄主窝直接把蛋生进去的，但没有证据。出于这两个原因，他在同一片区域进行了持续五年的观察（偷蛋）实验。&lt;/p&gt;
+&lt;p&gt;第一年，Chance通过辨识蛋发现了两只雌性杜鹃A和B，她们占据各自领地，把蛋下在各自地盘的meadow pipit（草地鹨）窝里，A生的蛋多，B生的蛋少。Chance把所有寄生蛋和寄主蛋都收集起来，蛋屁股全部开小孔，通过分析胚胎发现所有杜鹃蛋和寄主蛋都处于同一发育阶段。如果一只杜鹃一个夏天能下十几颗蛋，那她一定需要精心选择还在陆续生新蛋的寄主；而草地鹨一窝只有四五个蛋，每天产一个，所以雌杜鹃产蛋的窗口非常短只有四五天。Chance判断今后与其在茂密的植被里徒劳地搜寻杜鹃，不如蹲守寄主窝。&lt;/p&gt;
+&lt;p&gt;第二年，发现这一年草地鹨很少，已经了解杜鹃对寄主偏好的Chance决定进行干预，在杜鹃即将到来的五月初，他把已经开始孵化、因此不会再有杜鹃寄生的草地鹨的蛋整窝收走，失去蛋的草地鹨马上开始建新巢、下新蛋。随后第一年的杜鹃A和杜鹃B又回来了，虽然本地还有很多其他常被杜鹃寄生的鸟类，但她们保持了与去年同样的领地分配，并仍然把蛋下在草地鹨的窝里。每天观察寄主巢的方法非常有效，Chance确定小杜鹃需要12天孵化，而草地鹨的蛋要13天孵化，所以刚出生的杜鹃有时间可以把寄主蛋踹出窝去；此外他发现了18个杜鹃A产的蛋，并观察到她基本是隔天生一个。此时的Chance已经打破了Rey的杜鹃蛋收集记录，但他一直以为Rey收集的数目是20枚，以为自己并未成功，决定明年再来（&lt;/p&gt;
+&lt;p&gt;第三年，为了让杜鹃产量再创新高，Chance决定对蛋和窝进行进一步的“farming”，每当他算着杜鹃该有蛋了，但寄主还没开始下蛋窝是空的，他就往里面塞一个，造成“寄主已经开始产蛋了但还没开始孵蛋”的假象，哄骗杜鹃下蛋；加上因为对寄主巢和杜鹃的产蛋周期的掌握，Chance已经逐渐可以判断杜鹃哪天会在哪个窝里下蛋，于是观察杜鹃下蛋的过程变得可能。一开始他早上去扒鸟窝，发现杜鹃蛋已经在里面了，第二天起得更早，发现杜鹃蛋已经在里面了，才意识到杜鹃应该是下午下蛋。杜鹃A在下午进行或长或短的观察潜伏后，飞到目标巢里逗留十秒钟左右再离开，Chance团队此时去扒鸟窝，看到少了一枚寄主蛋，多了一枚杜鹃蛋，但仍然没看到过程。杜鹃A在这一年产了21个蛋。&lt;/p&gt;
+&lt;p&gt;第四年，Chance终于成功了，因为farming+成功预测杜鹃下蛋的位置，他提前放置好用草和树枝扎成的藏身处，雇佣摄影师进行拍摄，成功拍到了很多条杜鹃A下蛋视频：她飞进寄主巢，取走一只蛋用喙叼着，迅速把自己的蛋下好，立刻飞离现场，休息并把蛋整只吞下。这证明了beaker们观察到杜鹃叼着飞的蛋其实是寄主蛋，杜鹃像其他鸟一样是直接把蛋下在巢里，并没有搬运的过程。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img loading="lazy" src="3chance.jpg"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;Edgar Chance 钻进他的伪装小草屋&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;最后一年，已经炉火纯青的下蛋观察者Chance增派了摄像师，并邀请客人一同观鸟（但炎夏下午无尽的等待令人昏昏欲睡，不乏观鸟客因为打盹错过了宝贵的产蛋十秒。）他甚至增加了假鸟巢进一步引诱杜鹃下蛋：这一年杜鹃A下了25个。&lt;/p&gt;
+&lt;p&gt;Chance写了两本关于杜鹃的书，制作了杜鹃产蛋的纪录片。在这五年中杜鹃A共下了90个蛋，基本全部被Chance薅走并精心记录在案，现在均完整陈列在博物馆。杜鹃A从非洲到英国来回苦飞这五年间，并没有留下自己的后代，&amp;ldquo;But the cuckoo&amp;rsquo;s laying secret, a mystery since the time of Aristotle, was a story told by her eggshells. Her memory endures in those lifeless jewels.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Chance一辈子收集鸟蛋，还因为收了稀有鸟蛋而被罚款并逐出英国鸟类学会。他给自己的女儿起名叫Cardamine，一种在英国被称作“杜鹃花”的纤弱花朵。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img loading="lazy" src="5cowbird.jpeg"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;北美常见寄生鸟类褐头牛鹂（Brown-headed cowbird）幼鸟与寄主亲鸟红眼莺雀（Red-eyed Vireo）&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;</description></item></channel></rss>
