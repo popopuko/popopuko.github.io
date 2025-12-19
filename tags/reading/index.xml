@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reading on Po&#39;s Haunted Attic</title>
-    <link>https://popopuko.github.io/tags/reading/</link>
+    <link>http://localhost:1313/tags/reading/</link>
     <description>Recent content in Reading on Po&#39;s Haunted Attic</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 18 Dec 2025 18:04:59 -0500</lastBuildDate>
-    <atom:link href="https://popopuko.github.io/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>赫尔佐格的狂喜真实：The Future of Truth 随记</title>
-      <link>https://popopuko.github.io/posts/251218herzog/</link>
+      <link>http://localhost:1313/posts/251218herzog/</link>
       <pubDate>Thu, 18 Dec 2025 18:04:59 -0500</pubDate>
-      <guid>https://popopuko.github.io/posts/251218herzog/</guid>
+      <guid>http://localhost:1313/posts/251218herzog/</guid>
       <description>&lt;p&gt;在书店看到赫尔佐格的新书 &lt;em&gt;The Future of Truth&lt;/em&gt; 出现在推荐区，拿起来翻了翻，介绍说是讨论在造假成本比任何时代都低的当代社会中，艺术家应该怎么定义和表达真实，感觉蛮有意思。之前看过赫尔佐格的电影，印象还是这个人拍电影热情洋溢到不要命的程度，听过一些轶事比如拍摄期间拍摄地的土著（也是演员）问佢：要不要我帮你把那个跟你不对付的主演杀了，以及佢第一台拍电影的摄影机是偷来的；于是我也基本没有心理包袱地放下书，去zlib下载了免费epub开始阅读（。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg&#34;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
          alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;赫尔佐格与差点被土著杀了的 Klaus Kinski&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -23,24 +23,24 @@
 
 &lt;p&gt;赫尔佐格通过自己的作品和拍摄过程来论证佢的理论，即无论什么时代，人的感情和反应永远都是相对更加“真实”的。赫尔佐格2019年在日本拍了一个伪纪录片 &lt;em&gt;Family Romance LLC&lt;/em&gt;，是受到日本一个同名公司的启发。该公司提供租演员业务，客户可以雇假老公应付家人，雇朋友排解寂寞，etc；公司的创始人自己就是干这个出身的，经验丰富，赫尔佐格联系他，想用他公司的名字命名电影，也想用他麾下的员工参与演出，合作途中发现这个人对表演十分有见解（可以想象…干脆请他做了主演。&lt;/p&gt;
 &lt;p&gt;这部电影我没看，书里也没讲梗概以外的很多内容，但着重讲了电影拍完一年以后的事情。NHK联络这位创始人，说我们想以你公司的这种文化为主题拍个纪录片，能不能给牵线找一位你们曾经的客户，可以匿名，我们跟拍一个纪录片。于是创始人给他们介绍了一位孤独老头客户，曾通过公司雇过几次假朋友陪玩，老头分享了自己的孤独心情和经历。纪录片拍完播出后，NHK收到观众来信说这老头并不是客户，而是这个公司的演员，甚至在赫尔佐格的电影里还出镜过。这件事引发了轩然大波，NHK郑重道歉。面对大丑闻，创始人倒是十分坦然地出面解释：拍纪录片没有介绍客户而是介绍了演员，是因为在镜头前真正的客户会感到羞耻而遮掩自己的孤独，绝不会将其完全表现出来；而他的演员，已经缓解过上百人的孤独，才是了解并且能讲述真正的真实的人。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;3familyromance.jpg&#34;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;3familyromance.jpg#center&#34;
          alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;&lt;em&gt;Family Romance LLC&lt;/em&gt; 剧照，图中男性即为同名公司创始人石井裕一&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;赫尔佐格的另一部纪录片 &lt;em&gt;Little Dieter Needs to Fly&lt;/em&gt; 讲越战幸存飞行员 Dieter Dengler，此人在战后德国长大，从小挨饿受穷，移民美国成为一名飞行员，在老挝执行任务的时候被击落并俘虏，后来获救。纪录片第一幕是飞行员获救之后回到美国在加州的日常生活，他从自己的车里走下来，把车门关上，再打开，再关上；然后走到副驾驶检查情况，把车门关上，再打开，再关上；走到自家门口，把门关上，再打开，再关上。他反复用力开关门，因为在老挝作为俘虏的日子里你是无法自主地去开关一扇门的。赫尔佐格：这个开头很绝妙，有悬念，又让观众对主角有了亲近感（大意，很多电影演一个小时都没有我这个效果，但是呢，这个场景是我设计的！这人并没有这个习惯！我是怎么想出这个点子的呢，我去这人家里采访，发现他家挂着很多画，内容都是半开半关的门，我问他这些画是什么意思，他说没什么特别的意思，就是自己有个邻居画了一大堆这种画，十美元一张批量卖给我了，我就挂在家里。赫尔佐格：你觉不觉得很奇妙，在老挝作为俘虏的日子里你是无法自主地去开关一扇门的？前飞行员：你说得好有道理啊，赫尔佐格：好，那电影开头我们就这样拍。这部电影里还有别的艺术加工，赫尔佐格看助理给的一些参考录像，其中一个场景发生在战后1946年的美国，肉铺窗口挂着一根香肠，非常显眼，路过的人都能看见，面有菜色的疲惫路人从肉铺门口路过，每个人都会抬头凝视这根香肠，但因为囊中羞涩，每个人在久久凝视之后都离开了。赫尔佐格看了说这个有意思啊，虽然不是发生在德国，我还是把这个场景编进飞行员贫穷的童年了，电影里有飞行员的独白：当我第一次路过肉铺，看到窗口挂着的那根香肠时……&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;4door.png&#34;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;4door.png#center&#34;
          alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Dieter Dengler 开关房门，演技还蛮自然的&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;这种借题发挥移花接木虽然在艺术创作里很常见，但像赫尔佐格这样数十年如一日地拍摄纪录片来对抗纪录片的概念，堂而皇之把谎言用在纪录片里的也是独一份的厚颜了（绝无贬义！佢在 &lt;em&gt;Lessons of Darkness&lt;/em&gt; 中拍海湾战争后的科威特，每一个油井都被点了火，天空和大地漆黑，只有火焰蔓延燃烧。在所有图像出现之前，开篇是一句来自帕斯卡尔的quote：The collapse of the stellar universe will occur – like creation – in grandiose splendor. 赫尔佐格：这个开头就很有力量，一下就给影片定下了基调，除了一点：这句话并不是帕斯卡尔写的，是我写的！虽然帕斯卡尔来写应该也没有我写得好，但这里使用他的名字来增强力度是很重要的！&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;5lessons.png&#34;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;5lessons.png#center&#34;
          alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;帕he斯er卡zuo尔ge名言之后出现的第一个画面&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -52,13 +52,13 @@
     </item>
     <item>
       <title>鸟的阴谋和人的阴谋:         Cuckoo: Cheating by Nature 读后随记</title>
-      <link>https://popopuko.github.io/posts/cuckoo/</link>
+      <link>http://localhost:1313/posts/cuckoo/</link>
       <pubDate>Wed, 17 Dec 2025 18:34:01 -0500</pubDate>
-      <guid>https://popopuko.github.io/posts/cuckoo/</guid>
+      <guid>http://localhost:1313/posts/cuckoo/</guid>
       <description>&lt;p&gt;今年开始观鸟之后读了一些关于鸟类的书，有趣的也有一些，读到第一本相当喜欢的是Nicholas Davies的Cuckoo: Cheating by Nature。Davies是一名生物行为学家，对大杜鹃的行为进行了多年的观察研究。这本书读起来非常上瘾，一边讲理论，一边讲行为观察实验，环环相扣，尤其着重描写了历史上的科学家，即作者的“英雄”们，对行踪隐秘的杜鹃行为的研究过程。&lt;/p&gt;
 &lt;p&gt;从亚里士多德开始人们就知道雌杜鹃只生不养，让其他鸟类把小杜鹃当成自己的幼崽喂大，但不知道杜鹃的骗局具体是如何实现的。在没有双筒望远镜、观鸟尚难的时代，对鸟类的了解很大部分来自oology，一门以收集鸟巢和鸟蛋为中心的学科。当时人们通过采集（普通）杜鹃蛋已了解到，不同寄主巢里发现的杜鹃蛋形态各异，但多数都和寄主的蛋有相似的颜色、尺寸和斑点，由于同一只鸟不太可能决定自己某颗蛋的颜色，人们倾向认为杜鹃存在不同的亚种，有各自专攻（？）的寄主，只会把蛋下在有类似形态的寄主窝里。一战前在杜鹃蛋领域非常知名的德国科学家Eugene Rey，曾在一个繁殖季节里收集了17枚产自同一只雌杜鹃的蛋，创造了当时的世界纪录。关于杜鹃是怎么把蛋弄到寄主巢里也有两个流派，Rey是一位“beaker”，即认为杜鹃会把蛋生在地上，再把蛋叼进寄主巢穴；另一种“regurgitators”则认为杜鹃是把蛋含在食管里，再把蛋反刍吐进巢穴。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2eggs.png&#34;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;2eggs.png#center&#34;
          alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;非洲杜鹃与其寄主叉尾卷尾的蛋外观对比，https://doi.org/10.1098/rspb.2023.1125&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -69,8 +69,8 @@
 &lt;p&gt;第二年，发现这一年草地鹨很少，已经了解杜鹃对寄主偏好的Chance决定进行干预，在杜鹃即将到来的五月初，他把已经开始孵化、因此不会再有杜鹃寄生的草地鹨的蛋整窝收走，失去蛋的草地鹨马上开始建新巢、下新蛋。随后第一年的杜鹃A和杜鹃B又回来了，虽然本地还有很多其他常被杜鹃寄生的鸟类，但她们保持了与去年同样的领地分配，并仍然把蛋下在草地鹨的窝里。每天观察寄主巢的方法非常有效，Chance确定小杜鹃需要12天孵化，而草地鹨的蛋要13天孵化，所以刚出生的杜鹃有时间可以把寄主蛋踹出窝去；此外他发现了18个杜鹃A产的蛋，并观察到她基本是隔天生一个。此时的Chance已经打破了Rey的杜鹃蛋收集记录，但他一直以为Rey收集的数目是20枚，以为自己并未成功，决定明年再来（&lt;/p&gt;
 &lt;p&gt;第三年，为了让杜鹃产量再创新高，Chance决定对蛋和窝进行进一步的“farming”，每当他算着杜鹃该有蛋了，但寄主还没开始下蛋窝是空的，他就往里面塞一个，造成“寄主已经开始产蛋了但还没开始孵蛋”的假象，哄骗杜鹃下蛋；加上因为对寄主巢和杜鹃的产蛋周期的掌握，Chance已经逐渐可以判断杜鹃哪天会在哪个窝里下蛋，于是观察杜鹃下蛋的过程变得可能。一开始他早上去扒鸟窝，发现杜鹃蛋已经在里面了，第二天起得更早，发现杜鹃蛋已经在里面了，才意识到杜鹃应该是下午下蛋。杜鹃A在下午进行或长或短的观察潜伏后，飞到目标巢里逗留十秒钟左右再离开，Chance团队此时去扒鸟窝，看到少了一枚寄主蛋，多了一枚杜鹃蛋，但仍然没看到过程。杜鹃A在这一年产了21个蛋。&lt;/p&gt;
 &lt;p&gt;第四年，Chance终于成功了，因为farming+成功预测杜鹃下蛋的位置，他提前放置好用草和树枝扎成的藏身处，雇佣摄影师进行拍摄，成功拍到了很多条杜鹃A下蛋视频：她飞进寄主巢，取走一只蛋用喙叼着，迅速把自己的蛋下好，立刻飞离现场，休息并把蛋整只吞下。这证明了beaker们观察到杜鹃叼着飞的蛋其实是寄主蛋，杜鹃像其他鸟一样是直接把蛋下在巢里，并没有搬运的过程。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;3chance.jpg&#34;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;3chance.jpg#center&#34;
          alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Edgar Chance 钻进他的伪装小草屋&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -79,8 +79,8 @@
 &lt;p&gt;最后一年，已经炉火纯青的下蛋观察者Chance增派了摄像师，并邀请客人一同观鸟（但炎夏下午无尽的等待令人昏昏欲睡，不乏观鸟客因为打盹错过了宝贵的产蛋十秒。）他甚至增加了假鸟巢进一步引诱杜鹃下蛋：这一年杜鹃A下了25个。&lt;/p&gt;
 &lt;p&gt;Chance写了两本关于杜鹃的书，制作了杜鹃产蛋的纪录片。在这五年中杜鹃A共下了90个蛋，基本全部被Chance薅走并精心记录在案，现在均完整陈列在博物馆。杜鹃A从非洲到英国来回苦飞这五年间，并没有留下自己的后代，&amp;ldquo;But the cuckoo&amp;rsquo;s laying secret, a mystery since the time of Aristotle, was a story told by her eggshells. Her memory endures in those lifeless jewels.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Chance一辈子收集鸟蛋，还因为收了稀有鸟蛋而被罚款并逐出英国鸟类学会。他给自己的女儿起名叫Cardamine，一种在英国被称作“杜鹃花”的纤弱花朵。&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;5cowbird.jpeg&#34;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;5cowbird.jpeg#center&#34;
          alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;北美常见寄生鸟类褐头牛鹂（Brown-headed cowbird）幼鸟与寄主亲鸟红眼莺雀（Red-eyed Vireo）&lt;/p&gt;
         &lt;/figcaption&gt;
