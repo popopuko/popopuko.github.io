@@ -1,112 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>棒针编织 on Po&#39;s Haunted Attic</title>
-    <link>http://localhost:1313/tags/%E6%A3%92%E9%92%88%E7%BC%96%E7%BB%87/</link>
-    <description>Recent content in 棒针编织 on Po&#39;s Haunted Attic</description>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 05 Jan 2026 14:38:40 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%A3%92%E9%92%88%E7%BC%96%E7%BB%87/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>棒针新手笔记：第一条围巾、Noro Kompeito毛线测评、灵感和想织清单</title>
-      <link>http://localhost:1313/posts/knitting1/</link>
-      <pubDate>Mon, 05 Jan 2026 14:38:40 -0500</pubDate>
-      <guid>http://localhost:1313/posts/knitting1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;# 非常随便地掉入深坑&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>棒针编织 on Po's Haunted Attic</title><link>https://popopuko.github.io/tags/%E6%A3%92%E9%92%88%E7%BC%96%E7%BB%87/</link><description>Recent content in 棒针编织 on Po's Haunted Attic</description><generator>Hugo -- 0.152.2</generator><language>zh-cn</language><lastBuildDate>Mon, 05 Jan 2026 14:38:40 -0500</lastBuildDate><atom:link href="https://popopuko.github.io/tags/%E6%A3%92%E9%92%88%E7%BC%96%E7%BB%87/index.xml" rel="self" type="application/rss+xml"/><item><title>棒针新手笔记：第一条围巾、Noro Kompeito毛线使用感、灵感和待织</title><link>https://popopuko.github.io/posts/knitting1/</link><pubDate>Mon, 05 Jan 2026 14:38:40 -0500</pubDate><guid>https://popopuko.github.io/posts/knitting1/</guid><description>&lt;h1 id="非常随便地掉入深坑"&gt;非常随便地掉入深坑&lt;/h1&gt;
 &lt;p&gt;这两年虽然自己不织，也有用上手织帽子和围巾若干，知道了自己手织的东西线材精挑细选，而且可以织出由于成本高而难以流水线批量生产的图案和花样；但因为捡二手已臻化境（，不缺高质量纱线的针织衣饰，一直缺少开始认真学的契机。&lt;/p&gt;
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;二十年老knitter的部分作品&lt;/p&gt;
-        &lt;/figcaption&gt;
+&lt;figure class="align-center "&gt;
+&lt;img loading="lazy" src="j.jpeg#center"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;二十年老knitter最近开新&lt;/p&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
 &lt;p&gt;直到年底有一天J看到本地一个毛线店打折的消息，两人就一起去看。我是很喜欢逛毛线店的，愉快的心情和逛唱片店差不多，全部都摸摸看看一遍，和同行的人聊聊喜欢的唱片，但因为家里没有唱片机，转完一圈潇洒拍屁股走人并得意洋洋地想这一趟劲省大几百刀。&lt;/p&gt;
 &lt;p&gt;但这一次就湿鞋了，在货架上看到了一团Noro毛线，配色是我最喜欢的斑驳黄绿色调，春季紫叶李发新叶的颜色，零星缀有芽黄、草绿、亮蓝、紫色、赭石、珊瑚、泡泡糖粉，色彩对比亮眼又很融洽和谐，近看毛线的质地朴拙，粗细、捻度都不是很均匀，和这个野花草甸的热闹配色又正合适。总之喜欢得不得了，虽然什么也不会织还是带了一团回家。&lt;/p&gt;
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;我看中的是13号，J也非常喜欢下面的18号&lt;/p&gt;
-        &lt;/figcaption&gt;
+&lt;figure class="align-center "&gt;
+&lt;img loading="lazy" src="swatch.png#center"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;我看中的是13号Sabae，J也非常喜欢下面的18号&lt;/p&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
 &lt;p&gt;回家以后就开始比较认真地学了，在练习用线上先学最简单的knit和purl针法，从garter stitch和stockinette stitch开始。最初的练习非常惨烈，很多针线绕反了，或者握针不紧而掉针了，或者试着修补但不得法所以错得更严重，解决方法就是找了knit和purl的照片示意图放在旁边当小抄，想不起来了就拿出来看一眼继续织。随后学习了已经织好的针怎么拆，我觉得这是我学过最有用的棒针技能（，只要会拆就有敢织敢练的底气。&lt;/p&gt;
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;做过的所有练习，也就这么可怜的错误百出的一点点&lt;/p&gt;
-        &lt;/figcaption&gt;
+&lt;figure class="align-center "&gt;
+&lt;img loading="lazy" src="prac.jpeg#center"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;灰色是做过的所有练习，也就这么可怜的错误百出的一点点&lt;/p&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
 &lt;p&gt;这样拆拆织织到基本不出错，速度也上来了，就开始考虑第一个项目织什么。对我来说还是挺难决定的，种种原因：毛线很特别也很昂贵，不想做全是平针的小东西，觉得有点普通；毛线只有一团，虽然Noro毛线分量很大，但也不够做大面积的项目；技术实在有限织不了复杂的花样，而且太繁复的图样和杂色、粗细不均的毛线组合在一起又会互相吞食减分。&lt;/p&gt;
 &lt;p&gt;也是这个时候开始使用Ravelry，先是看图样的热度排名，前几页没有既喜欢又适合这款线的图案，于是放弃；然后在毛线搜索中找这款毛线，看看别人都织了什么，这才发现Noro有很多很多系列的毛线。我的这个是Kompeito（金平糖，国人叫花糖）系列，成分是棉、真丝和尼龙，DK粗细（织起来才觉得这个完全不作准，后面展开讲），花色像金平糖的细闪一样是零星缀在其间的；Ravelry上最流行的是Silk Garden和Silk Garden Sock系列，羊毛混纺，浓郁饱和、近乎纯色的段染配色，织出来接近宽条纹，非常适合织围巾。&lt;/p&gt;
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Silk Garden美丽的配色&lt;/p&gt;
-        &lt;/figcaption&gt;
+&lt;div style="display:flex; gap:12px;"&gt;
+&lt;figure style="width:48%; margin:0;"&gt;
+&lt;img src="striped.png" alt="xxx" /&gt;
+&lt;figcaption style="font-size:0.9em; color:#666;"&gt;
+↑ Silk Garden
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;图上右边那款Noro Fan Scarf看到有人也用Kompeito织，虽然没有大片明显的条纹，但简单的镂空不至于把线的细节吞掉，和线也算搭了，再看看pattern只需要学k2tog和yo两种超级简单的针法，其他的全是knit和purl，适合我的水平，就愉快地做了决定。接下来就是织小样，一般织小样是为了看线的gauge和图样里用的是否一致，看是否需要调节针号、针数等；围巾对尺寸要求没那么严格，我这次织一小块只是为了最后确认线和图案的契合程度，效果还算满意，正式开织！&lt;/p&gt;
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;简陋小样留念，拍完就拆了&lt;/p&gt;
-        &lt;/figcaption&gt;
+&lt;figure style="width:48%; margin:0;"&gt;
+&lt;img src="jchan.png" alt="yyy" /&gt;
+&lt;figcaption style="font-size:0.9em; color:#666;"&gt;
+↑ Silk Garden Sock
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
+&lt;/div&gt;
+&lt;p&gt;最后选择了图上右边那款Noro Fan Scarf图样。看到有人也用Kompeito织，虽然没有大片明显的条纹，但简单的镂空不至于把线的细节吞掉，和线也算搭，再看看pattern只需要学k2tog和yo两种超级简单的针法，其他的全是knit和purl，适合我的水平，就愉快地做了决定。接下来就是织小样，一般织小样是为了看线的gauge和图样里用的是否一致，看是否需要调节针号、针数等；围巾对尺寸要求没那么严格，我这次织一小块只是为了最后确认线和图案的契合程度，效果还算满意，正式开织！&lt;/p&gt;
+&lt;figure class="align-center "&gt;
+&lt;img loading="lazy" src="swatch.jpeg#center"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;简陋小样留念，拍完就拆了&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;p&gt;真织起来反而没什么好讲的了，怕出错，每织一行就数一遍针数是否正确，一直到最后一行织完；随着进度推进，织的速度越来越快，拆掉错误针的速度越来越快，数针数的速度也越来越快（。编织需要明亮的光线，但家里的灯角度亮度都比较尴尬，我也跟J学着戴上户外头灯织；也是这时候织得每天神情恍惚，头灯一会忘了关一会忘了开，像一个黄金矿工的幽灵在家里蹒跚游动。&lt;/p&gt;
 &lt;p&gt;12.23晚上开始织，1.2织到了想要的长度，1.3cast off，十天完成了第一个编织项目！之后是过水和定型blocking，把湿围巾用大头针固定在有小格子（可以比较容易找到直线）的塑胶垫子上晾干，因为围巾两端边缘是波浪形，还要在每个波浪尖端用针。&lt;/p&gt;
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;定型之钉板现场&lt;/p&gt;
-        &lt;/figcaption&gt;
+&lt;figure class="align-center "&gt;
+&lt;img loading="lazy" src="block.jpeg#center"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;定型之钉板现场&lt;/p&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;很喜欢捏造波浪&lt;/p&gt;
-        &lt;/figcaption&gt;
+&lt;figure class="align-center "&gt;
+&lt;img loading="lazy" src="wave.jpeg#center"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;很喜欢捏造波浪&lt;/p&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;# Noro Kompeito毛线的使用感&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;叫测评可能也不太适合，因为我没有任何数字可以提供&lt;/p&gt;
-&lt;p&gt;-颜色，比起浅色底色我更喜欢主色调有个明确有力的主题，但浅色有几款也很可爱，配色和谐像复活节蛋&lt;/p&gt;
-&lt;p&gt;-松软舒服，用于手工编织的纱线的光泽是很微妙的，不是反光有sheen&lt;/p&gt;
-&lt;p&gt;-亲肤，“天然”&lt;/p&gt;
-&lt;p&gt;-捻度不均匀，有的很松很粗，织的时候要捻线（但还是粗；松，竟然断了&lt;/p&gt;
-&lt;p&gt;-小的尼龙丝掉屑&lt;/p&gt;
-&lt;h1 id=&#34;接下来织什么&#34;&gt;接下来织什么&lt;/h1&gt;
-&lt;p&gt;我觉得跳兔子洞以寻找灵感，是我在knitting里最喜欢的部分（和knitting毫不相关了已经，从艺术品配色、流水线产品款式、vintage商品的独特细节，到更现实的“Ravelry上能找到什么pattern”之间跳来跳去，大脑真是爽死了。&lt;/p&gt;
-&lt;p&gt;考虑过觉得时间、精力和金钱（毛线）对我来说都很昂贵，衣柜里不缺理想的衣服，也没有想要达成一周织一件毛衣的速度成就感，所以考虑要织什么的时候就比较挑挑拣拣。总之讲讲我眼下的Ravelry待织列表里有点什么：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Long-Eared Owlet Cable Hat 综合技术水平、毛线（从J那里领养了两小团藕合色毛线）这些因素，这个是目前最实际的项目。已经开始学习用到的各种新技术，还学会了圈织织小样的方法（参考视频），估计很快就可以cast on
-&lt;figure class=&#34;align-center &#34;&gt;
-     &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-          alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-             &lt;p&gt;Knit Picks Palette Yarn Seraphim&lt;/p&gt;
-         &lt;/figcaption&gt;
- &lt;/figure&gt;
+&lt;h1 id="noro-kompeito-13-sabae-织感"&gt;Noro Kompeito #13 Sabae 织感&lt;/h1&gt;
+&lt;p&gt;叫测评可能不太适合，因为我没有任何数字可以提供……虽然有些可能是我的少见多怪，但还是趁新鲜记一下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Kompeito色号很多是用日本的地名命名，色调非常宽广丰富，像金平糖细碎反光一样点缀着各种杂色。不知为何国人使用的似乎多是数字较小、底色较浅的色号，北美基本没得卖；我觉得低饱和的浅色底色+杂色如果选款不好可能会显得脏乱，太复杂的蕾丝图案配这个线可能结构就不太明显。我更喜欢10号之后的色号，主色调有个明确有力的主题；当然浅色也有很可爱的，经典的1号配色甜美和谐，像复活节蛋。
+&lt;figure class="align-center "&gt;
+&lt;img loading="lazy" src="K-KOMPEI.jpg#center"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;#01 Shiro&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;Charadrii 感谢象友分享的shorebird图案帽子，观鸟人非常想拥有！双色会比较麻烦和慢，但总是要学的，想在做完1之后、会织帽子的基础上循序渐进。已经找了一款海平线配色的渐变线，只等练级了&lt;/li&gt;
-&lt;/ol&gt;
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Knit Picks Sandscapes Yarn Sea Star&lt;/p&gt;
-        &lt;/figcaption&gt;
+&lt;li&gt;
+&lt;p&gt;材质松软舒适。因为各有1/3左右的棉和真丝，很多人用来做夏款的背心和T恤。这款纱线真丝的光泽是很微妙的，有微微明亮的硬糖感。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;虽然另外1/3左右成分是尼龙，也标榜是“天然”，这个说法应该是因为没有使用有毒的化学染料？确实没有闻到任何染料气味。不知道一般毛线固色如何，这款下水时水中有绿色落色，但毛线本身并没有出现明显褪色。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kompeito是单股线，可能因为是手工线的缘故，捻度和粗细极其不均匀，标识是DK线，但有的部分能细到fingering以下，有的部分无限松无限粗，织的时候时不时要手动拧一下来捻线（捻过了之后还是粗。粗细不均就算了，线拧得太松的话让人非常担心线的强度；这次的恐怖故事是织完block之后我得意地戴上拍了几张照，就发现cast off留下的线头自己断了一半，赶紧摘下来weave in把线头藏藏好。
+&lt;figure class="align-center "&gt;
+&lt;img loading="lazy" src="width.jpeg#center"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;随手拍的粗细对比，非常明显，抱歉头灯下有巨大色差&lt;/p&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
-
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;White Lizard 纹路比较特别、难度评分不是特别高的yoke毛衣，做功课的时候发现很多yoke毛衣穿上身不太flattering，这一件的款式看上去比较友好。没意外的话应该会用另外一份领养的森林绿美利奴真丝混纺线，虽然颜色深但真丝会提供一些光泽，几何图案不会太不明显。看需要的用线量可能刚好够/刚好不够，或许没法织成10分袖的长度&lt;/li&gt;
-&lt;/ol&gt;
-&lt;figure class=&#34;align-center &#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;2kinski.jpg#center&#34;
-         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Knit Picks Gloss Fingering Yarn Pine&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;织和下水定型的时候都发现许多细小的白色尼龙丝掉屑，扯下来感觉对线不好，不扯对强迫症不好，并不影响整体织物的观感，就是如果细看看到了很碍眼。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="接下来织什么"&gt;接下来织什么&lt;/h1&gt;
+&lt;p&gt;我觉得跳兔子洞以寻找灵感，是我在knitting里最喜欢的部分（和knitting毫不相关了已经，从艺术品配色、流水线产品款式、vintage商品的独特细节，到更现实的“Ravelry上能找到什么pattern”之间跳来跳去，大脑真是爽死了。&lt;/p&gt;
+&lt;p&gt;考虑到时间、精力和金钱（毛线）对我来说都很昂贵，衣柜里不缺理想的衣服，也没有想要达成一周织一件毛衣的速度成就感，所以决定要织什么的时候就比较挑挑拣拣。总之跳过曲折兔子洞，讲讲我眼下的Ravelry待织列表里有点什么：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.ravelry.com/patterns/library/long-eared-owlet-cable-hat"&gt;Long-Eared Owlet Cable Hat&lt;/a&gt; 综合技术水平、毛线（从J那里领养了两小团藕合色毛线）这些因素，这个是目前最实际的项目。已经开始学习用到的各种新技术，还学会了圈织织小样的方法（参考视频），估计很快就可以cast on
+&lt;figure class="align-center "&gt;
+&lt;img loading="lazy" src="seraphim.png#center"
+alt="xxx"/&gt; &lt;figcaption&gt;
+&lt;p&gt;Knit Picks Palette Yarn Seraphim&lt;/p&gt;</description></item></channel></rss>
