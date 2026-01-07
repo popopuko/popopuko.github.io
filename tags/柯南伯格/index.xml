@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>柯南伯格 on Po&#39;s Haunted Attic</title>
+    <link>http://localhost:1313/tags/%E6%9F%AF%E5%8D%97%E4%BC%AF%E6%A0%BC/</link>
+    <description>Recent content in 柯南伯格 on Po&#39;s Haunted Attic</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 18 Dec 2025 21:41:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%9F%AF%E5%8D%97%E4%BC%AF%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/cronenberg1/</link>
+      <pubDate>Thu, 18 Dec 2025 21:41:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/cronenberg1/</guid>
+      <description>&lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
+&lt;h3 id=&#34;三级标题&#34;&gt;三级标题&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;加粗&lt;/strong&gt;
+&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
+&lt;figure class=&#34;align-center &#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;pic.jpg#center&#34;
+         alt=&#34;xxx&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;图注：xxx&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;div style=&#34;display:flex; gap:12px; flex-wrap:wrap;&#34;&gt;
+  &lt;img src=&#34;pic.jpg&#34; style=&#34;max-width:48%; height:auto;&#34; /&gt;
+  &lt;img src=&#34;pic.jpg&#34; style=&#34;max-width:48%; height:auto;&#34; /&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display:flex; gap:12px;&#34;&gt;
+  &lt;figure style=&#34;width:48%; margin:0;&#34;&gt;
+    &lt;img src=&#34;pic.jpg&#34; alt=&#34;xxx&#34; /&gt;
+    &lt;figcaption style=&#34;font-size:0.9em; color:#666;&#34;&gt;
+      图注：xxx
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+  &lt;figure style=&#34;width:48%; margin:0;&#34;&gt;
+    &lt;img src=&#34;pic.jpg&#34; alt=&#34;yyy&#34; /&gt;
+    &lt;figcaption style=&#34;font-size:0.9em; color:#666;&#34;&gt;
+      图注：yyy
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
